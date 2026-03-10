@@ -1,0 +1,7 @@
+# Maven build directory target/ # Maven wrapper files 
+.mvn/wrapper/maven-wrapper.jar # Logs *.log # Temporary files *.tmp *.temp 
+*.bak # OS generated files .DS_Store Thumbs.db # Eclipse files .project 
+.classpath .settings/ .metadata/ bin/ # IntelliJ files .idea/ *.iml *.ipr 
+*.iws out/ # VS Code .vscode/ # Compiled class files *.class # Package 
+files *.jar *.war *.ear # Test output surefire-reports/ # Dependency 
+directories dependency-reduced-pom.xml
