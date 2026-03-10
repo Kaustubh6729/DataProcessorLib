@@ -1,0 +1,6 @@
+com/processor/events/model/EventStats.class
+com/processor/events/utils/EventValidator.class
+com/processor/events/utils/EventStatsAccumulator.class
+com/processor/events/utils/EventAggregator.class
+com/processor/events/Main.class
+com/processor/events/model/Event.class

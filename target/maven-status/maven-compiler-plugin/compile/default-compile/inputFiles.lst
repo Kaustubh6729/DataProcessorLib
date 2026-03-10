@@ -1,0 +1,6 @@
+/Users/kaustubh/eclipse-workspace/DataProcessorLib/src/main/java/com/processor/events/Main.java
+/Users/kaustubh/eclipse-workspace/DataProcessorLib/src/main/java/com/processor/events/model/Event.java
+/Users/kaustubh/eclipse-workspace/DataProcessorLib/src/main/java/com/processor/events/model/EventStats.java
+/Users/kaustubh/eclipse-workspace/DataProcessorLib/src/main/java/com/processor/events/utils/EventAggregator.java
+/Users/kaustubh/eclipse-workspace/DataProcessorLib/src/main/java/com/processor/events/utils/EventStatsAccumulator.java
+/Users/kaustubh/eclipse-workspace/DataProcessorLib/src/main/java/com/processor/events/utils/EventValidator.java
